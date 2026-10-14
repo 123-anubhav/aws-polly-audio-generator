@@ -68,6 +68,13 @@ aws-polly-audio-generator/
 ├── project demo images/
 └── requirements.txt
 ```
+![aws-polly-audio-generator](./project%20demo%20images/polly01.png)
+
+![aws-polly-audio-generator](./project%20demo%20images/polly02.png)
+
+![aws-polly-audio-generator](./project%20demo%20images/polly04.png)
+
+![aws-polly-audio-generator](./project%20demo%20images/polly03.png)
 
 ## Prerequisites
 --------------
